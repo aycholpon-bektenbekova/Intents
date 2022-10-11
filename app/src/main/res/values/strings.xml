@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="put_email_address">Put email address</string>
+    <string name="theme">theme</string>
+    <string name="put_your_message">Put your message</string>
+    <string name="send">Send</string>
+    <string name="to">To:</string>
+    <string name="from">From:</string>
+</resources>
